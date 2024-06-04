@@ -7,6 +7,8 @@ import { Emoji } from "src/components/Emoji"
 const ServiceCard: React.FC = () => {
   if (!CONFIG.projects) return null
   return (
+    <>
+    </>
   )
 }
 

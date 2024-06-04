@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "Classpad More+",
     description: "welcome to morethan-log!",
   },
   // CONFIG configration (required)

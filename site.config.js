@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Classpad More+`,
-      href: "https://claspad-more.vercel.app",
+      name: `morethan-log`,
+      href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
     title: Classpad More+",
-    description: "welcome to morethan-log!",
+    description: "welcome to Classpad More+",
   },
 
   // CONFIG configration (required)

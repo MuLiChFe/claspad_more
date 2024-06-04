@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: Classpad More+",
+    title: "Classpad More+",
     description: "welcome to Classpad More+",
   },
 
